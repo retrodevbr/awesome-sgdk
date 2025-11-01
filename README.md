@@ -20,6 +20,7 @@ developers to create games and applications for this classic 16-bit console usin
 
 - [genesis-code](https://github.com/zerasul/genesis-code) - Visual Studio Code Genesis Development Extension with SGDK
   support.
+- [sgdk-symbol-usage](https://github.com/retrodevbr/sgdk-symbol-usage) - SGDK tool for memory consumption analysis based on the symbol.txt file generated during build.
 
 ## Graphics Tools
 
