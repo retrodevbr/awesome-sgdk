@@ -30,6 +30,7 @@ developers to create games and applications for this classic 16-bit console usin
   within the Mega Drive color palette.
 - [SGDK_Gradiente_generator](https://github.com/VagnoSilva/SGDK_Gradiente_generator) - Gradient generator using the Mega
   Drive palette between two user-chosen colors.
+- [SGDK Aseprite Scripts](https://github.com/retrodevbr/sgdk-aseprite-scripts) - Collection of Aseprite scripts designed to optimize sprites
 
 ## Emulators
 
