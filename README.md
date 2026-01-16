@@ -24,6 +24,7 @@ developers to create games and applications for this classic 16-bit console usin
 
 ## Graphics Tools
 
+- [MD 9-bit Color Picker](https://fabianodigital.com.br/tools/mdcolorpicker.html) - Accurate color Picker with a hue spectrum, saturation–brightness grid, RGB sliders and preset swatches,
 - [godot2sgdk](https://github.com/fiddd0/godot2sgdk) - Export assets and data from Godot for SGDK development.
 - [Ether](https://github.com/junixbr/Ether) - Pixel art palette converter for transforming images into chosen palettes.
 - [SGDK_color_match](https://github.com/VagnoSilva/SGDK_color_match) - Color matcher that returns five possible tones
